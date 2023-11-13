@@ -14,9 +14,9 @@ This repo provides the notebooks used in the Wherobots blogpost: https://medium.
 
 ## Use Wherobots to deploy Sedona to cloud vendors
 
-The other notebooks used in Study 1 and 2 can be run on a AWS EMR or Databricks cluster. if you want to try them out, please sign up here: https://www.wherobots.ai/demo
+The other notebooks used in Study 1 and 2 can be run on Wherobots cloud with a [professional plan](https://wherobots.com/pricing/). If you want to try them out, please sign up on [Wherobots cloud](https://www.wherobots.services/) and [contact us](https://docs.wherobots.services/latest/support/) to upgrade.
 
-Wherobots is a spatial data analytics and AI platform trusted in production, at scale, from the original creators of Apache Sedona.
+Wherobots is the spatial analytics and AI cloud, trusted in production, at scale, from the original creators of Apache Sedona.
 
 ## Free and public Overture Maps GeoParquet data from Wherobots
 
@@ -35,4 +35,4 @@ The licenses of the Wherobots Overture Maps data are the same as the [original O
 
 ## Credits
 
-Furqaan Khan, Jia Yu, Mo Sarwat, Nilesh Gajwani
+Furqaan Khan, Jia Yu, Mo Sarwat, Nilesh Gajwani, Kristin Cowalcijk
