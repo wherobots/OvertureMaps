@@ -12,9 +12,9 @@ This repo provides the notebooks used in the Wherobots blogpost: https://medium.
 - Pull the Docker image: You can do `docker pull apache/sedona` and then run `docker run -p 8888:8888 apache/sedona:latest`
 - Start coding: The Jupyter notebook will be available at https://localhost:8888
 
-## Use Wherobots to deploy Sedona to cloud vendors
+## Use Wherobots Cloud to easily run Sedona
 
-The other notebooks used in Study 1 and 2 can be run on Wherobots cloud with a [professional plan](https://wherobots.com/pricing/). If you want to try them out, please sign up on [Wherobots cloud](https://www.wherobots.services/) and [contact us](https://docs.wherobots.services/latest/support/) to upgrade.
+The other notebooks used in Study 1 and 2 can be run on Wherobots cloud with a [professional plan](https://wherobots.com/pricing/). If you want to try them out, please sign up to [Wherobots Cloud](https://wherobots.services/) and [contact us](https://docs.wherobots.services/latest/support/) to upgrade.
 
 Wherobots is the spatial analytics and AI cloud, trusted in production, at scale, from the original creators of Apache Sedona.
 
