@@ -22,12 +22,12 @@ Wherobots is the spatial analytics and AI cloud, trusted in production, at scale
 
 The GeoParquet format data produced in Study 2 is provided by [Wherobots](https://www.wherobots.ai/) for free. It has the same schema and license as the original Overture Maps Parquet data, except the geometry column is in `geometry` type and has additional `geohash` column in string type. You can access them as follows:
 
-- Buildings: `s3://wherobots-public-data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=buildings/type=building`
-- Places: `s3://wherobots-public-data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=places/type=place`
-- AdminBoundary: `s3://wherobots-public-data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=admins/type=administrativeBoundary`
-- AdminLocality: `s3://wherobots-public-data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=admins/type=locality`
-- Transportation Connector: `s3://wherobots-public-data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=transportation/type=connector`
-- Transportation Segment: `s3://wherobots-public-data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=transportation/type=segment`
+- Buildings: `s3://wherobots-examples/data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=buildings/type=building`
+- Places: `s3://wherobots-examples/data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=places/type=place`
+- AdminBoundary: `s3://wherobots-examples/data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=admins/type=administrativeBoundary`
+- AdminLocality: `s3://wherobots-examples/data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=admins/type=locality`
+- Transportation Connector: `s3://wherobots-examples/data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=transportation/type=connector`
+- Transportation Segment: `s3://wherobots-examples/data/overturemaps-us-west-2/release/2023-07-26-alpha.0/theme=transportation/type=segment`
 
 ## Licenses
 
